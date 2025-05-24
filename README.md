@@ -3,13 +3,13 @@ aidcom is a sequence analyzing tool utilizes FASTA files to identify common and 
 
 **Installation**
 
-1. Update:
+1. Update: <br>
 sudo apt update
 
-2. Download the Tool:
+2. Download the Tool: <br>
 git clone https://github.com/aidrabd/aidcom.git <br>
 cd aidcom
 
-3. Run the Tool:
+3. Run the Tool: <br>
 python3 aidcom.py <br>
 ./aidcom.py
